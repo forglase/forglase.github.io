@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://forglase.github.io/sitemap.html.gz
+Sitemap: https://forglase.github.io/app/sitemap.html.gz
+Sitemap: https://forglase.github.io/assets/sitemap.html.gz
+Sitemap: https://forglase.github.io/css/sitemap.html.gz
+Sitemap: https://forglase.github.io/includes/sitemap.html.gz
+Sitemap: https://forglase.github.io/item/sitemap.html.gz
+Sitemap: https://forglase.github.io/src/sitemap.html.gz
